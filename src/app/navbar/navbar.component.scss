@@ -1,0 +1,33 @@
+.navbar span{
+    text-align: center;
+    color: lightcoral;
+}
+.navbar{    
+    width: 100%;    
+    background: black;
+    height: 5em;
+}
+
+.navbar ul{
+    color: blanchedalmond;
+    list-style: none;
+    display: flex;
+    padding: 0;
+    margin: 0;
+ 
+
+}
+
+.navbar li{    
+    text-align: center;
+    padding: 1.6em;
+    font-size: 18px;
+    color: white;
+}
+
+.navbar li:hover {
+    background: grey;
+}
+a {
+    color: honeydew;
+}
